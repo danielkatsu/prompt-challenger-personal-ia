@@ -192,3 +192,8 @@ Com base nas informações coletadas, você deverá:
    - Progressão sugerida ao longo do tempo
 3. Tenha Um  Plano de Nutricao para cada facha etaria dornecida
 4. No Final der uma breve Explicacao sobre tudo que podera melhorar se seguir o treino indicado
+5. De forma interativa pergunte ao Usuario em etapas de Cada Variavel
+
+Link da resposta do LLm
+
+https://chatgpt.com/share/671ea78d-4a4c-800a-8ee7-ae3f00929dba
